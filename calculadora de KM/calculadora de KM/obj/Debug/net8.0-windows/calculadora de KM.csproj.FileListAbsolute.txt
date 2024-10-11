@@ -1,0 +1,17 @@
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\bin\Debug\net8.0-windows\calculadora de KM.exe
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\bin\Debug\net8.0-windows\calculadora de KM.deps.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\bin\Debug\net8.0-windows\calculadora de KM.runtimeconfig.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\bin\Debug\net8.0-windows\calculadora de KM.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\bin\Debug\net8.0-windows\calculadora de KM.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora_de_KM.Form1.resources
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.csproj.GenerateResource.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.AssemblyInfoInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.AssemblyInfo.cs
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.csproj.CoreCompileInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.sourcelink.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\refint\calculadora de KM.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\calculadora de KM.genruntimeconfig.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\calculadora de KM\calculadora de KM\obj\Debug\net8.0-windows\ref\calculadora de KM.dll
