@@ -1,0 +1,288 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Microsoft.Extensions.Caching.Abstractions/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Options": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Primitives": "2.2.0",
+          "System.ComponentModel.Annotations": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/2.2.0": {
+        "dependencies": {
+          "System.Memory": "4.5.1",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Microsoft.Recognizers.Definitions/1.8.9": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Recognizers.Definitions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Recognizers.Text/1.8.9": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Memory": "2.2.0",
+          "NuGet.CommandLine": "5.11.5",
+          "System.Collections.Immutable": "1.7.1",
+          "System.ValueTuple": "4.5.0",
+          "vswhere": "2.8.4"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Recognizers.Text.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Recognizers.Text.DataTypes.TimexExpression/1.8.9": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Recognizers.Text.DateTime/1.8.9": {
+        "dependencies": {
+          "Microsoft.Recognizers.Definitions": "1.8.9",
+          "Microsoft.Recognizers.Text": "1.8.9",
+          "Microsoft.Recognizers.Text.DataTypes.TimexExpression": "1.8.9",
+          "Microsoft.Recognizers.Text.Number": "1.8.9",
+          "Microsoft.Recognizers.Text.NumberWithUnit": "1.8.9"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Recognizers.Text.DateTime.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Recognizers.Text.Number/1.8.9": {
+        "dependencies": {
+          "Microsoft.Recognizers.Definitions": "1.8.9",
+          "Microsoft.Recognizers.Text": "1.8.9"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Recognizers.Text.Number.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Recognizers.Text.NumberWithUnit/1.8.9": {
+        "dependencies": {
+          "Microsoft.Recognizers.Definitions": "1.8.9",
+          "Microsoft.Recognizers.Text": "1.8.9",
+          "Microsoft.Recognizers.Text.Number": "1.8.9"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Recognizers.Text.NumberWithUnit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NuGet.CommandLine/5.11.5": {},
+      "System.Collections.Immutable/1.7.1": {
+        "runtime": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {
+            "assemblyVersion": "1.2.5.0",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.5.0": {},
+      "System.Memory/4.5.1": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {},
+      "vswhere/2.8.4": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.Caching.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-spsJkYo8gGJapaxTSQFN/wqA+ghpJMLwB4ZyTB+fSdpd7AmMFP/YSpIcGmczcw4KggpxLGhLk7lCkSIlgvHaqQ==",
+      "path": "microsoft.extensions.caching.abstractions/2.2.0",
+      "hashPath": "microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yFs44RzB2Pzfoj4uk+mEz3MTTQKyeWb8gDhv5GyVPfHnLv0eQhGwzbw/5WpxAcVyOgG/H3/0ULY6g0/7/B+r7w==",
+      "path": "microsoft.extensions.caching.memory/2.2.0",
+      "hashPath": "microsoft.extensions.caching.memory.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f9hstgjVmr6rmrfGSpfsVOl2irKAgr1QjrSi3FgnS7kulxband50f2brRLwySAQTADPZeTdow0mpSMcoAdadCw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.2.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UpZLNLBpIZ0GTebShui7xXYh6DmBHjWM8NxGxZbdQh/bPZ5e6YswqI+bru6BnEL5eWiOdodsXtEz3FROcgi/qg==",
+      "path": "microsoft.extensions.options/2.2.0",
+      "hashPath": "microsoft.extensions.options.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-azyQtqbm4fSaDzZHD/J+V6oWMFaf2tWP4WEGIYePLCMw3+b2RQdj9ybgbQyjCshcitQKQ4lEDOZjmSlTTrHxUg==",
+      "path": "microsoft.extensions.primitives/2.2.0",
+      "hashPath": "microsoft.extensions.primitives.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.Recognizers.Definitions/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FHiZNvMNVaYkr9FhljezWB0VqcHXyFrCdJny9yKboBnfPa43jdt66wqL+wW1/hzC6MUCmLjYq96g2eht+X1PZw==",
+      "path": "microsoft.recognizers.definitions/1.8.9",
+      "hashPath": "microsoft.recognizers.definitions.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.Recognizers.Text/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5YwlX8wEpAzS3TGtR+rHdYDjqWia6yoYGn8o9SbwDuswH4Z9HKQ8xRaFwyyjyagamuhNYGu2+/t03I1f0e0SRw==",
+      "path": "microsoft.recognizers.text/1.8.9",
+      "hashPath": "microsoft.recognizers.text.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.Recognizers.Text.DataTypes.TimexExpression/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dXpRaosLl1DOF5HHnnNOhMixKgSSBr1BQJep7Ewh7M5AdLgNVa/C+RYoY7NqugF0OIQhw2DEEiqP7Ph/B5ef/w==",
+      "path": "microsoft.recognizers.text.datatypes.timexexpression/1.8.9",
+      "hashPath": "microsoft.recognizers.text.datatypes.timexexpression.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.Recognizers.Text.DateTime/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Eeq2MqlwJKtY3YbTWMxBTgsfqCKjPK7DNS5GrdCSq9W3nB8rfeFOh5mCARQ3vmbGhn7az/l6w5jH6fU8LnTQrw==",
+      "path": "microsoft.recognizers.text.datetime/1.8.9",
+      "hashPath": "microsoft.recognizers.text.datetime.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.Recognizers.Text.Number/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9zLr4FwpbX/TbovCn4PJQXJqKEyzBrBNkqu1FB1BPWcVRhP3leHFnwfHowOe8tW4xjRqkZ2XT8FbIAafgldyxw==",
+      "path": "microsoft.recognizers.text.number/1.8.9",
+      "hashPath": "microsoft.recognizers.text.number.1.8.9.nupkg.sha512"
+    },
+    "Microsoft.Recognizers.Text.NumberWithUnit/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zgpzmri50x8aFbQqlt2TFIX1OwlfL0VOUTZENvoJgQcvV5nKvaxNuSCiUgkgZdxO3voDrbxU5j5g2rAqueUxaQ==",
+      "path": "microsoft.recognizers.text.numberwithunit/1.8.9",
+      "hashPath": "microsoft.recognizers.text.numberwithunit.1.8.9.nupkg.sha512"
+    },
+    "NuGet.CommandLine/5.11.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fUe06Eguj9Iaudzs/yRVKW8cdMm+2al+rPqaatSjQT3gOZoHkM/kMpk39NwYIOJdWQVbR/EoGh21gMIgicosMw==",
+      "path": "nuget.commandline/5.11.5",
+      "hashPath": "nuget.commandline.5.11.5.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "path": "system.collections.immutable/1.7.1",
+      "hashPath": "system.collections.immutable.1.7.1.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UxYQ3FGUOtzJ7LfSdnYSFd7+oEv6M8NgUatatIN2HxNtDdlcvFAf+VIq4Of9cDMJEJC0aSRv/x898RYhB4Yppg==",
+      "path": "system.componentmodel.annotations/4.5.0",
+      "hashPath": "system.componentmodel.annotations.4.5.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sDJYJpGtTgx+23Ayu5euxG5mAXWdkDb4+b0rD0Cab0M1oQS9H0HXGPriKcqpXuiJDTV7fTp/d+fMDJmnr6sNvA==",
+      "path": "system.memory/4.5.1",
+      "hashPath": "system.memory.4.5.1.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zh8t8oqolRaFa9vmOZfdQm/qKejdqz0J9kr7o2Fu0vPeoH3BL1EOXipKWwkWtLT1JPzjByrF19fGuFlNbmPpiw==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "vswhere/2.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vnprpt1NycD1CrUecoj+EQHY3LGqGvCrSK9NrhORiT9TnZ2J1Ve9qYYddLBaX207uyBWImDv8QuMv/95Bd3V6w==",
+      "path": "vswhere/2.8.4",
+      "hashPath": "vswhere.2.8.4.nupkg.sha512"
+    }
+  }
+}

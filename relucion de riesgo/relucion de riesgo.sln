@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relucion de riesgo", "relucion de riesgo\relucion de riesgo.csproj", "{EF3CFEFA-A2CB-4012-8B62-AD59F2018092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3CFEFA-A2CB-4012-8B62-AD59F2018092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3CFEFA-A2CB-4012-8B62-AD59F2018092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3CFEFA-A2CB-4012-8B62-AD59F2018092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3CFEFA-A2CB-4012-8B62-AD59F2018092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84768A10-AAC2-4CF7-8748-4984E5490BE4}
+	EndGlobalSection
+EndGlobal

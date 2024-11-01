@@ -1,0 +1,10 @@
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\bin\Debug\json.net.exe.config
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\bin\Debug\json.net.exe
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\bin\Debug\json.net.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\obj\Debug\json.net.csproj.AssemblyReference.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\obj\Debug\json.net.csproj.CoreCompileInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\obj\Debug\json.net.csproj.Up2Date
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\obj\Debug\json.net.exe
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\json.net\json.net\obj\Debug\json.net.pdb

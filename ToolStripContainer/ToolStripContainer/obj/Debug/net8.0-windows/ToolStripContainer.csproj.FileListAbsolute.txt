@@ -1,0 +1,17 @@
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\bin\Debug\net8.0-windows\ToolStripContainer.exe
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\bin\Debug\net8.0-windows\ToolStripContainer.deps.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\bin\Debug\net8.0-windows\ToolStripContainer.runtimeconfig.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\bin\Debug\net8.0-windows\ToolStripContainer.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\bin\Debug\net8.0-windows\ToolStripContainer.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.Form1.resources
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.csproj.GenerateResource.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.AssemblyInfoInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.AssemblyInfo.cs
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.csproj.CoreCompileInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.sourcelink.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\refint\ToolStripContainer.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ToolStripContainer.genruntimeconfig.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\ToolStripContainer\ToolStripContainer\obj\Debug\net8.0-windows\ref\ToolStripContainer.dll

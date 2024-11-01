@@ -1,0 +1,17 @@
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog___SaveFileDialog.Form1.resources
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.AssemblyInfoInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.AssemblyInfo.cs
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.sourcelink.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\bin\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.exe
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\bin\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.deps.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\bin\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.runtimeconfig.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\bin\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\bin\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\refint\OpenFileDialog & SaveFileDialog.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\OpenFileDialog & SaveFileDialog.genruntimeconfig.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\OpenFileDialog & SaveFileDialog\OpenFileDialog & SaveFileDialog\obj\Debug\net8.0-windows\ref\OpenFileDialog & SaveFileDialog.dll

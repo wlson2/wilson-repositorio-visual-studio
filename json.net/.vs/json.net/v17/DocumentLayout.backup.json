@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|c:\\users\\tg computer\\desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|solutionrelative:json.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|solutionrelative:json.net\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|solutionrelative:json.net\\model\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|solutionrelative:json.net\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|solutionrelative:json.net\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E50C3C-C938-4998-BD03-051776782557}|json.net\\json.net.csproj|solutionrelative:json.net\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Country.cs",
+              "RelativeDocumentMoniker": "json.net\\model\\Country.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Country.cs",
+              "RelativeToolTip": "json.net\\model\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:33:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\City.cs",
+              "RelativeDocumentMoniker": "json.net\\model\\City.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\City.cs",
+              "RelativeToolTip": "json.net\\model\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:33:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Phone.cs",
+              "RelativeDocumentMoniker": "json.net\\model\\Phone.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Phone.cs",
+              "RelativeToolTip": "json.net\\model\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:32:45.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Address.cs",
+              "RelativeDocumentMoniker": "json.net\\model\\Address.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Address.cs",
+              "RelativeToolTip": "json.net\\model\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:32:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Contact.cs",
+              "RelativeDocumentMoniker": "json.net\\model\\Contact.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\model\\Contact.cs",
+              "RelativeToolTip": "json.net\\model\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:31:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\Program.cs",
+              "RelativeDocumentMoniker": "json.net\\Program.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\json.net\\json.net\\Program.cs",
+              "RelativeToolTip": "json.net\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:28:54.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
