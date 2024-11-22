@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sURzuL49UB4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\litedb_sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TG computer\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\TG computer\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

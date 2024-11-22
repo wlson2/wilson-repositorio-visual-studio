@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{048EE332-EFD8-4DCE-8497-E8662C28E41D}|DateTime\\DateTime.csproj|solutionrelative:datetime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048EE332-EFD8-4DCE-8497-E8662C28E41D}|DateTime\\DateTime.csproj|c:\\users\\tg computer\\desktop\\visual studio\\wilson-repositorio\\datetime\\datetime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{048EE332-EFD8-4DCE-8497-E8662C28E41D}|DateTime\\DateTime.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\DateTime\\datetime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{048EE332-EFD8-4DCE-8497-E8662C28E41D}|DateTime\\DateTime.csproj|solutionrelative:datetime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,10 +28,14 @@
               "RelativeDocumentMoniker": "DateTime\\Form1.cs",
               "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\DateTime\\DateTime\\Form1.cs",
               "RelativeToolTip": "DateTime\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T16:17:58.3Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -42,8 +46,7 @@
               "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\DateTime\\DateTime\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "DateTime\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T16:10:00.72Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-01T16:10:00.72Z"
             }
           ]
         }

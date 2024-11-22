@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\litedb_sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0473A08B-3876-4D31-9EFD-77AD7B016FA8}|litedb_sample\\litedb_sample.csproj|c:\\users\\tg computer\\desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0473A08B-3876-4D31-9EFD-77AD7B016FA8}|litedb_sample\\litedb_sample.csproj|solutionrelative:litedb_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0473A08B-3876-4D31-9EFD-77AD7B016FA8}|litedb_sample\\litedb_sample.csproj|c:\\users\\tg computer\\desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0473A08B-3876-4D31-9EFD-77AD7B016FA8}|litedb_sample\\litedb_sample.csproj|solutionrelative:litedb_sample\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\Book.cs",
+              "RelativeDocumentMoniker": "litedb_sample\\Book.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\Book.cs",
+              "RelativeToolTip": "litedb_sample\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:30:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\Program.cs",
+              "RelativeDocumentMoniker": "litedb_sample\\Program.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\litedb_sample\\litedb_sample\\Program.cs",
+              "RelativeToolTip": "litedb_sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:29:53.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
