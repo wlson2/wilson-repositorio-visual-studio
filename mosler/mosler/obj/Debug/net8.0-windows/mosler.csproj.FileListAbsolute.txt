@@ -1,0 +1,17 @@
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\bin\Debug\net8.0-windows\mosler.exe
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\bin\Debug\net8.0-windows\mosler.deps.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\bin\Debug\net8.0-windows\mosler.runtimeconfig.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\bin\Debug\net8.0-windows\mosler.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\bin\Debug\net8.0-windows\mosler.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.Form1.resources
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.csproj.GenerateResource.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.AssemblyInfoInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.AssemblyInfo.cs
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.csproj.CoreCompileInputs.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.sourcelink.json
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\refint\mosler.dll
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.pdb
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\mosler.genruntimeconfig.cache
+C:\Users\TG computer\Desktop\visual studio\wilson-repositorio\mosler\mosler\obj\Debug\net8.0-windows\ref\mosler.dll

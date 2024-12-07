@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD24E6F-837B-4EE7-8391-AD20604ECFBD}|mosler\\mosler.csproj|c:\\users\\tg computer\\desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD24E6F-837B-4EE7-8391-AD20604ECFBD}|mosler\\mosler.csproj|solutionrelative:mosler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD24E6F-837B-4EE7-8391-AD20604ECFBD}|mosler\\mosler.csproj|c:\\users\\tg computer\\desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\riesgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD24E6F-837B-4EE7-8391-AD20604ECFBD}|mosler\\mosler.csproj|solutionrelative:mosler\\riesgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD24E6F-837B-4EE7-8391-AD20604ECFBD}|mosler\\mosler.csproj|C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD24E6F-837B-4EE7-8391-AD20604ECFBD}|mosler\\mosler.csproj|solutionrelative:mosler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Riesgo.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\Riesgo.cs",
+              "RelativeDocumentMoniker": "mosler\\Riesgo.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\Riesgo.cs",
+              "RelativeToolTip": "mosler\\Riesgo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:35:29.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\Form1.cs",
+              "RelativeDocumentMoniker": "mosler\\Form1.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\Form1.cs",
+              "RelativeToolTip": "mosler\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:34:53.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\Form1.cs",
+              "RelativeDocumentMoniker": "mosler\\Form1.cs",
+              "ToolTip": "C:\\Users\\TG computer\\Desktop\\visual studio\\wilson-repositorio\\mosler\\mosler\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "mosler\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:34:21.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
